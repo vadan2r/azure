@@ -10,7 +10,6 @@ PASSOS:
 2. No Azure Portal, cria-se o banco de dados, (SQL database),, a Storage Account, um Container (“Fotos”)
 
 ![Arquivos no VSCode](image.png)
-![Criação do .env](image-1.png)
 
 Configurando o Banco de Dados e Criando a tabela de produtos
 ![Banco de Dados](image-2.png)
